@@ -12,9 +12,9 @@ A simple and interactive quiz application built with Flutter. This app allows us
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/images/screenshots/start_screen.png" width="30%" alt="Start Screen">
-  <img src="assets/images/screenshots/question_screen.png" width="30%" alt="Question Screen">
-  <img src="assets/images/screenshots/result_screen.png" width="30%" alt="Result Screen">
+  <img src="asset/images/start-screen.png" width="30%" alt="Start Screen">
+  <img src="asset/images/question-screen.png" width="30%" alt="Question Screen">
+  <img src="asset/images/result-screen.png" width="30%" alt="Result Screen">
 </p>
 
 ## 🛠 Installation
