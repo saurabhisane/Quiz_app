@@ -38,7 +38,7 @@ class _QuestionsScreen extends State<QuestionsScreen> {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             Text(
-              questions[0].text,
+              questions[currentQuestionIndex].text,
               style: GoogleFonts.lato(
                 color: const Color.fromARGB(100, 251, 200, 255),
                 fontSize: 24,
